@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xTayEx?tab=repositories](https://github.com/xTayEx?tab=repositories)
 
-- 📝 I regularly write articles on [https://xtayex.github.io/](https://xtayex.github.io/)
+- 📝 I regularly write articles on [https://xtayex.github.io/](https://xtayex.top/)
 
 - 📫 How to reach me **xtayexmimori@gmail.com**
 
