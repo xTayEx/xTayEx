@@ -1,14 +1,3 @@
-<!--START_SECTION:waka-->
-
-```txt
-VimL         4 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
-Other        2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-Bash         1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-C++          1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Lua          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-```
-
-<!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm xtayex</h1>
 <h3 align="center">A postgraduate in East China Normal University</h3>
@@ -33,4 +22,19 @@ Lua          1 hr 1 min      █▓░░░░░░░░░░░░░░░
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ---
+## My GitHub Stats
 [![xtayex's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtayex&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+VimL         4 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
+Other        2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Bash         1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+C++          1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Lua          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+```
+
+<!--END_SECTION:waka-->
