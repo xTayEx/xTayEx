@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">Hi 👋, I'm xtayex</h1>
 <h3 align="center">A postgraduate in East China Normal University</h3>
 
