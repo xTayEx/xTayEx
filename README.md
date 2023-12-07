@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm xtayex</h1>
 <h3 align="center">A postgraduate in East China Normal University</h3>
 
-- 🔭 I’m currently working on [RuNet](https://github.com/xTayEx/RuNet)
+- 🔭 I’m currently working on [buddy-mlir](https://github.com/buddy-compiler/buddy-mlir)
 
-- 🌱 I’m currently learning **CMU15-418**
+- 🌱 I’m currently learning **Efficient ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xTayEx?tab=repositories](https://github.com/xTayEx?tab=repositories)
 
