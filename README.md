@@ -14,17 +14,3 @@
 ---
 ## My GitHub Stats
 [![xtayex's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtayex&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Python   1 hr 43 mins    ████████████████░░░░░░░░░   64.20 %
-Text     34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-MLIR     21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-TeX      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-```
-
-<!--END_SECTION:waka-->
